@@ -1,0 +1,1 @@
+//create a function that returns a boolean whether the string is a strict palindrome (do not ignore spaces, caps, etc.)

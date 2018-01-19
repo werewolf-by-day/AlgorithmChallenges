@@ -1,0 +1,1 @@
+//string.trim() - remove whitespace (tabs, spaces, newlines) from both sides and return a new string

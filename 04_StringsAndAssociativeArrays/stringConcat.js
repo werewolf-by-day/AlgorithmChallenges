@@ -1,0 +1,1 @@
+//string.concat(str2, str3,...,strX) - addstring(s) to end of existing one. return new string

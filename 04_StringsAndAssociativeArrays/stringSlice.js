@@ -1,0 +1,1 @@
+//string.slice(start, end) - extract part of a string and return in a new one

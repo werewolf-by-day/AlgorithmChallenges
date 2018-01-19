@@ -1,0 +1,1 @@
+//accept a string and return the number of non-space characters found in the string

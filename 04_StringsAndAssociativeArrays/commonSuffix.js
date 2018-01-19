@@ -1,0 +1,1 @@
+//write a function that, when given a word array, returns the largest suffix common to all words in the array (return blank if none)

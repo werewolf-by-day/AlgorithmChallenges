@@ -1,0 +1,1 @@
+//create a function that given a string, returns the integer made from the string's digits

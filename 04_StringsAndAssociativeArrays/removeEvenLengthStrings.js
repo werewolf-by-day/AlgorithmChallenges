@@ -1,0 +1,1 @@
+//build a standalone function to remove string of even lengths from a given array.

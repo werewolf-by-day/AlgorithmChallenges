@@ -1,0 +1,2 @@
+//given a sorted array of pages where a term appears, produce an index string. consecutive pages should form ranges separated by a hypen.
+//for [1, 13, 14, 15, 37, 38, 70] return string "1, 13-15, 37-38, 70"
